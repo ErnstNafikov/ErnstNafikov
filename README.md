@@ -21,8 +21,8 @@
 
 ## ⚙️ Технологии, с которыми я уже работаю  
 🔹 **Языки программирования:** Python, SQL, JavaScript  
-🔹 **Базы данных:** PostgreSQL, ORACLE, MS SQL 
-🔹 **ETL & Big Data:** Apache Airflow  
+🔹 **Базы данных:** PostgreSQL, Oracle, MS SQL 
+🔹 **ETL & Big Data:** Apache Airflow, SSIS, Oracle Data Integrator
 
 ---
 
